@@ -3,7 +3,7 @@ const { hashPassword, comparePassword } = require("../hash/authHash");
 const jwt = require("jsonwebtoken");
 
 const test = (req, res) => {
-  res.json({ mssg: "hekkasp" });
+  res.json({ mssg: "test ping" });
 };
 
 // Register user Controller
