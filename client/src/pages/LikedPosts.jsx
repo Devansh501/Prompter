@@ -30,7 +30,6 @@ const LikedPosts = () => {
           _id: logger._id
         })
         setData(data);
-        console.log(data)
       }
       catch (err) {
         console.log(err);
