@@ -1,0 +1,9 @@
+.nav{
+    background-color: #121212;
+    flex:.8;
+    min-height: 6vh;
+}
+.home{
+    background-color: #242124;
+    flex:9;
+}
