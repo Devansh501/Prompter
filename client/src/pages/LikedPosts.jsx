@@ -38,7 +38,7 @@ const LikedPosts = () => {
     }
     fetchData()
   }, [reloader])
-  console.log(reloader)
+  
 
   const removePost = (_id) => {
     const temp = data.filter(item => item._id != _id);
