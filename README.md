@@ -9,24 +9,30 @@
 [https://prompter-dun.vercel.app/](https://prompter-dun.vercel.app/)
 
 <h2>Project Screenshots:</h2>
-
-<img src="https://github.com/Devansh501/Prompter/assets/81950589/46172409-a692-4a61-bb8e-40517e102f4a" alt="project-screenshot" width="70%" height="400/">
-<br/><br/><br/>
-
+<div align="center">
+<div><img src="https://github.com/Devansh501/Prompter/assets/81950589/46172409-a692-4a61-bb8e-40517e102f4a" alt="project-screenshot" width="70%" height="400/"></div>
+<br/><br/>
+<div>
 <img src="https://github.com/Devansh501/Prompter/assets/81950589/1a14f5c1-ad2a-45b4-8891-b37b60548356" alt="project-screenshot" width="70%" height="400/">
-<br/><br/><br/>
-
+</div><br/><br/>
+<div>
 <img src="https://github.com/Devansh501/Prompter/assets/81950589/27d11fc0-a6db-43ba-8ddb-df33f6f5c7d1" alt="project-screenshot" width="70%" height="400/">
-<br/><br/><br/>
+</div><br/><br/>
 
+<div>
 <img src="https://github.com/Devansh501/Prompter/assets/81950589/b846c027-3a07-4d5d-aaf5-8c44ba651714" alt="project-screenshot" width="70%" height="400/">
-<br/><br/><br/>
+</div><br/><br/>
 
+<div>
 <img src="https://github.com/Devansh501/Prompter/assets/81950589/e67ca27b-3cbe-4dec-904d-578b61bfacd7" alt="project-screenshot" width="70%" height="400/">
-<br/><br/><br/>
+</div><br/><br/>
 
+<div>
 <img src="https://github.com/Devansh501/Prompter/assets/81950589/c107b685-9a53-4ec5-a062-770216e4095b" alt="project-screenshot" width="70%" height="400/">
-<br/><br/><br/>
+</div><br/><br/>
+
+
+</div>
 
 <h2>🛠️ Installation Steps:</h2>
 
@@ -62,6 +68,17 @@ npm start
 npm run dev
 ```
 
+<h2>💻 Built with</h2>
+
+Technologies used in the project:
+
+*   ReactJs
+*   JavaScript
+*   Tailwind
+*   NodeJs
+*   ExpressJs
+*   MongoDB
+*   JWT Tokens
   
   
 <h2>💻 Built with</h2>
