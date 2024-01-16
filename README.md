@@ -34,6 +34,15 @@
 
 </div>
 
+<h2>🧐 Features</h2>
+
+Here're some of the project's best features:
+
+*   Search, Create, Update and Delete A.I. Prompts
+*   Authentication and Authorisation using JWT Tokens
+*   Smooth UI and Navigation
+*   Ability to Like and Track your created Prompts
+
 <h2>🛠️ Installation Steps:</h2>
 
 <p>1. Clone the repository</p>
