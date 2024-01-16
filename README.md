@@ -62,7 +62,7 @@ npm install
 npm start
 ```
 
-<p>6. tart the frontend development server in the client folder</p>
+<p>6. Start the frontend development server in the client folder</p>
 
 ```
 npm run dev
